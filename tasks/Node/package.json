@@ -21,7 +21,7 @@
     "@types/node": "^15.0.2",
     "@types/q": "^1.5.4",
     "ncp": "^2.0.0",
-    "react-dev-utils": "^11.0.4",
+    "react-dev-utils": "^12.0.1",
     "rimraf": "^3.0.2",
     "terser-webpack-plugin": "^5.1.1",
     "ts-loader": "^9.1.2",
